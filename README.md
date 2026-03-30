@@ -1,5 +1,5 @@
 #  About Me:
-## Hi, ich bin Jonas
+
 ### 🚀 Software Engineering Student (2. Sem.) | Java & Spring Boot Enthusiast<br>Ich entwickle moderne Backend-Systeme mit Fokus auf **Clean Code**, **Testing** und **Containerisierung**.<br><br><br><br>🛠 Tech Stack<br>* **Backend:** Java, Spring Boot (MVC, Security, Data JPA)<br>* **Database & DevOps:** PostgreSQL, Docker, Maven<br>* **Quality:** JUnit 5, Mockito (Unit- & Integrationstests)<br><br><br><br>🏆Aktuelles Projekt: Library System<br>* Abgesicherte **REST-API** mit Spring Boot & PostgreSQL (Docker).  <br>✅ **Security:** Authentifizierung via Spring Security.  <br>✅ **Testing:** Testgetriebene Entwicklung mit Mockito.  <br>👉 [Link zum Repository]<br><br><br><br>📫 Kontakt<br>https://www.linkedin.com/in/jonas-kviring/ | Software Engineering @ Hochschule Heilbronn
 
 
