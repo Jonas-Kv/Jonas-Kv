@@ -16,7 +16,7 @@
 *A secure RESTful API for managing library resources and authors.*
 * **Security:** Robust authentication & authorization via **Spring Security**.
 * **Infrastructure:** Relational data mapping with **PostgreSQL** (fully containerized via **Docker**).
-* 👉 [**View Repository**](DEIN_PROJEKT_LINK_HIER)
+* 👉 https://github.com/Jonas-Kv/BookVault-API
 
 ---
 
