@@ -18,8 +18,6 @@
 
 I am currently working on a microservices-based e-commerce backend system that aims to simulate real-world, production-ready architectures.
 
-####  Final Vision
-
 The system will include:
 
 * **API Gateway** for centralized routing & security
